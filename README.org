@@ -1,0 +1,39 @@
+* Question                                                            :drill:
+SCHEDULED: <2022-11-14 Mon>
+:PROPERTIES:
+:ID:       0fb9cd94-69e9-4565-ba83-5e26ff444242
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-11-10 Thu 14:59]
+:END:
+W​hy does Linux not have a GUI?
+** Answer
+I​t has a GUI
+
+
+* Question :drill:
+SCHEDULED: <2022-11-14 Mon>
+:PROPERTIES:
+:ID:       cbcf7446-8cb1-4ca0-ba85-b029eedadd77
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-11-10 Thu 15:08]
+:END:
+W​hich command allows you to change the current directory?
+
+** Answer
+=cd=
+
+
+
+
